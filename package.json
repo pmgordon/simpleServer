@@ -1,0 +1,12 @@
+{
+  "name": "SimpleStarterServer",
+  "version": "0.0.1",
+  "description": "Application Description",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./node_modules/http-server/bin/http-server"
+  },
+  "dependencies": {
+    "http-server": "latest"
+  }
+}
