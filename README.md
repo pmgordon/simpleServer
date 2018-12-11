@@ -4,14 +4,14 @@ This is a starter simple node web-server with placeholders for Bootstrap and D3.
 
 ## How to Install
 
-'''
+```
 npm install
-'''
+```
 
 ## How to Start
-'''
+```
 npm start
-'''
+```
 
 
 
